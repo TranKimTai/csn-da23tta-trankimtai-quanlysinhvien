@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "693ff8f124f61dc097af28d7"
+  },
+  "ma_gv": "01",
+  "ten_gv": "Cao Phương Thảo",
+  "sdt": "0766719277",
+  "email": "cpthao@tvu.edu.vn"
+},
+{
+  "_id": {
+    "$oid": "693ff8f124f61dc097af28d8"
+  },
+  "ma_gv": "02",
+  "ten_gv": "Phan Thị Phương Nam",
+  "sdt": "0989236166",
+  "email": "ptpnam@tvu.edu.vn"
+},
+{
+  "_id": {
+    "$oid": "693ff8f124f61dc097af28d9"
+  },
+  "ma_gv": "03",
+  "ten_gv": "Phạm Thị Trúc Mai",
+  "sdt": "0936010206",
+  "email": "pttmai@tvu.edu.vn"
+},
+{
+  "_id": {
+    "$oid": "693ff8f124f61dc097af28da"
+  },
+  "ma_gv": "04",
+  "ten_gv": "Trần Văn Điền",
+  "sdt": "0918821411",
+  "email": "dientv@tvu.edu.vn"
+},
+{
+  "_id": {
+    "$oid": "693ff8f124f61dc097af28db"
+  },
+  "ma_gv": "05",
+  "ten_gv": "Nguyễn Vũ Lực",
+  "sdt": "0966810917",
+  "email": " nguyenvuluc@tvu.edu.vn"
+},
+{
+  "_id": {
+    "$oid": "693ff8f124f61dc097af28dc"
+  },
+  "ma_gv": "06",
+  "ten_gv": "Nguyễn Vy Thanh",
+  "sdt": "0939235236",
+  "email": " vythanh@tvu.edu.vn"
+},
+{
+  "_id": {
+    "$oid": "693ff8f124f61dc097af28dd"
+  },
+  "ma_gv": "07",
+  "ten_gv": "Nguyễn Thanh Tâm",
+  "sdt": "0982284405",
+  "email": "tamxd@tvu.edu.vn"
+},
+{
+  "_id": {
+    "$oid": "693ff8f124f61dc097af28de"
+  },
+  "ma_gv": "08",
+  "ten_gv": "Thạch Ngọc Phúc",
+  "sdt": "0973475358",
+  "email": "tnphuc@tvu.edu.vn"
+}]

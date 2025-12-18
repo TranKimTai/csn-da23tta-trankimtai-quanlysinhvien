@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "69415880e8b05fa2caba0366"
+  },
+  "ma_lop": "DA23DT",
+  "hoc_ky": "2025-2026",
+  "nam_nhap_hoc": 2023,
+  "so_luong_sinh_vien": 17
+},
+{
+  "_id": {
+    "$oid": "69415880e8b05fa2caba0367"
+  },
+  "ma_lop": "DA23CK",
+  "hoc_ky": "2025-2026",
+  "nam_nhap_hoc": 2023,
+  "so_luong_sinh_vien": 34
+},
+{
+  "_id": {
+    "$oid": "69415880e8b05fa2caba0368"
+  },
+  "ma_lop": "DA23CNOTB",
+  "hoc_ky": "2025-2026",
+  "nam_nhap_hoc": 2023,
+  "so_luong_sinh_vien": 33
+},
+{
+  "_id": {
+    "$oid": "69415880e8b05fa2caba0369"
+  },
+  "ma_lop": "DA23TTA",
+  "hoc_ky": "2025-2026",
+  "nam_nhap_hoc": 2023,
+  "so_luong_sinh_vien": 43
+},
+{
+  "_id": {
+    "$oid": "69415880e8b05fa2caba036a"
+  },
+  "ma_lop": "DA23TTC",
+  "hoc_ky": "2025-2026",
+  "nam_nhap_hoc": 2023,
+  "so_luong_sinh_vien": 36
+},
+{
+  "_id": {
+    "$oid": "69415880e8b05fa2caba036b"
+  },
+  "ma_lop": "DA23XDGT",
+  "hoc_ky": "2025-2026",
+  "nam_nhap_hoc": 2023,
+  "so_luong_sinh_vien": 16
+},
+{
+  "_id": {
+    "$oid": "69415880e8b05fa2caba036c"
+  },
+  "ma_lop": "DA23XD",
+  "hoc_ky": "2025-2026",
+  "nam_nhap_hoc": 2023,
+  "so_luong_sinh_vien": 29
+}]

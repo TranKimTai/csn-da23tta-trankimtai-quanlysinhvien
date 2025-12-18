@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "694158e1e8b05fa2caba036f"
+  },
+  "ma_khoa": "CNTT",
+  "ten_khoa": "Công nghệ thông tin",
+  "dia_chi": "C7"
+},
+{
+  "_id": {
+    "$oid": "694158e1e8b05fa2caba0370"
+  },
+  "ma_khoa": "DT",
+  "ten_khoa": "Điện-điện tử",
+  "dia_chi": "C5"
+},
+{
+  "_id": {
+    "$oid": "694158e1e8b05fa2caba0371"
+  },
+  "ma_khoa": "XD",
+  "ten_khoa": "Xây dựng",
+  "dia_chi": "C6"
+},
+{
+  "_id": {
+    "$oid": "694158e1e8b05fa2caba0372"
+  },
+  "ma_khoa": "CK",
+  "ten_khoa": "Cơ khí-động học",
+  "dia_chi": "C9"
+},
+{
+  "_id": {
+    "$oid": "694158e1e8b05fa2caba0373"
+  },
+  "ma_khoa": "KTHH",
+  "ten_khoa": "Kỹ thuật hóa học",
+  "dia_chi": "C3"
+},
+{
+  "_id": {
+    "$oid": "694158e1e8b05fa2caba0374"
+  },
+  "ma_khoa": "MT",
+  "ten_khoa": "Môi trường",
+  "dia_chi": "C4"
+}]
