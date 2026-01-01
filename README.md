@@ -67,7 +67,6 @@ db.sinh_vien.aggregate([
 * **Linh hoạt:** Dễ dàng bổ sung các trường thông tin mới (như chứng chỉ, kỹ năng) cho từng sinh viên mà không cần sửa cấu trúc toàn bộ bảng.
 * **Trực quan:** Xây dựng thành công Dashboard quản trị trên MongoDB Compass giúp theo dõi sĩ số và phân bố địa lý sinh viên.
 
-```
+---
 **Người thực hiện:** Trần Kim Tài
-
-**Giảng viên hướng dẫn:** Phan Thị Phương Nam
+**Email:** kimtaitran278@gmail.com
