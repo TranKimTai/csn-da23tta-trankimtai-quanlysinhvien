@@ -68,5 +68,5 @@ db.sinh_vien.aggregate([
 * **Trực quan:** Xây dựng thành công Dashboard quản trị trên MongoDB Compass giúp theo dõi sĩ số và phân bố địa lý sinh viên.
 
 ---
-**Người thực hiện:** Trần Kim Tài
-**Email:** kimtaitran278@gmail.com
+* **Người thực hiện:** Trần Kim Tài
+* **Email:** kimtaitran278@gmail.com
