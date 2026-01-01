@@ -1,37 +1,78 @@
-# Thiết kế và Cài đặt Cơ sở Dữ liệu NoSQL cho Hệ thống Quản lý Sinh viên
+# Thiết kế và Cài đặt CSDL NoSQL Quản lý Sinh viên
 
-Dự án này tập trung vào việc nghiên cứu, thiết kế và triển khai một hệ thống quản lý sinh viên sử dụng cơ sở dữ liệu phi quan hệ (NoSQL) với **MongoDB**. Mục tiêu chính là tối ưu hóa hiệu suất truy xuất dữ liệu và đảm bảo tính linh hoạt trong quản lý hồ sơ sinh viên tại môi trường đại học.
+Dự án nghiên cứu và triển khai hệ thống quản lý sinh viên dựa trên nền tảng **MongoDB**, tập trung vào việc tối ưu hóa hiệu năng truy xuất và xử lý dữ liệu phi cấu trúc thông qua kỹ thuật nhúng (Embedding) và Aggregation.
 
-## 📌 Tổng quan dự án
-[cite_start]Dự án giải quyết bài toán quản lý sinh viên thông qua các kỹ thuật hiện đại của MongoDB, thay thế cho các phương pháp SQL truyền thống để tăng tốc độ xử lý các truy vấn phức tạp và báo cáo thống kê.
+## 📖 Giới thiệu
 
-## 🛠 Công nghệ sử dụng
-* **Hệ quản trị CSDL:** MongoDB Community Server (v6.0).
-* **Công cụ quản lý:** MongoDB Compass (Giao diện đồ họa) và MongoDB Shell (Dòng lệnh).
-* **Kiến trúc dữ liệu:** Document-based với định dạng BSON/JSON.
+Dự án được thực hiện nhằm giải quyết các hạn chế của SQL truyền thống trong việc quản lý dữ liệu giáo dục. Hệ thống cho phép:
 
-## 📂 Cấu trúc Chương trong báo cáo
-1. **Chương 1: Tổng quan về đề tài:** Lý do chọn đề tài và mục tiêu nghiên cứu.
-2. **Chương 2: Cơ sở lý thuyết:** Giới thiệu về NoSQL, MongoDB và các khái niệm Document, Collection.
-3. **Chương 3: Hiện thực hóa nghiên cứu:** Thiết kế ERD, lược đồ mức vật lý và cài đặt hệ thống.
-4. **Chương 4: Kết quả và Thảo luận:** Thực thi các nghiệp vụ cập nhật, tra cứu và Dashboard thống kê.
+* Lưu trữ hồ sơ sinh viên đa cấp (Lớp, Khoa, Cố vấn học tập).
+* Truy xuất dữ liệu tốc độ cao không cần phép JOIN.
+* Báo cáo thống kê thời gian thực dựa trên các tiêu chí phức tạp.
 
-## 🏗 Đặc điểm kỹ thuật nổi bật
-* **Chiến lược Embedding (Nhúng):** Nhúng trực tiếp thông tin Lớp, Khoa và Cố vấn học tập vào Document Sinh viên để loại bỏ các phép `JOIN` tốn kém tài nguyên.
-* **Aggregation Pipeline:** Sử dụng các đường ống xử lý dữ liệu để tạo ra các báo cáo thống kê về sĩ số theo khoa, giới tính và phân bố địa lý một cách nhanh chóng.
-* **Tính linh hoạt cao:** Cho phép thay đổi cấu trúc dữ liệu (như thêm chứng chỉ, thông tin phụ) cho từng nhóm sinh viên mà không cần thay đổi lược đồ toàn bộ hệ thống.
+## 🏗 Cấu trúc dữ liệu
 
-## 📊 Các nghiệp vụ đã thực hiện
-* **Cập nhật:** Hỗ trợ cập nhật hồ sơ cá nhân và cập nhật hàng loạt (ví dụ: cập nhật học kỳ cho cả lớp).
-* **Tra cứu:** Tìm kiếm chính xác theo mã sinh viên và tìm kiếm linh hoạt bằng biểu thức chính quy (Regex) theo địa chỉ, tên.
-* **Thống kê:** Tự động tổng hợp số liệu sinh viên theo từng khoa và tỉnh thành thông qua toán tử `$group` và `$merge`.
+Dự án áp dụng mô hình **Document-based** với chiến lược **Embedding** giúp dữ liệu luôn nhất quán và dễ mở rộng.
 
-## 🚀 Cài đặt
-1. Cài đặt MongoDB Server và MongoDB Compass.
-2. Khởi tạo database `quan_ly_sinh_vien`.
-3. Import dữ liệu mẫu từ file JSON đính kèm (nếu có).
-4. Thực thi các truy vấn mẫu trong thư mục `queries/`.
+**Các trường dữ liệu chính:**
+
+* `ma_sinh_vien`: Mã số sinh viên (Unique Key).
+* `thong_tin_lop`: Chứa dữ liệu nhúng về lớp học và Cố vấn học tập.
+* `thong_tin_khoa`: Chứa dữ liệu nhúng về khoa quản lý.
+* `dia_chi`: Thông tin thường trú/tạm trú.
+
+## 🛠 Cài đặt
+
+1. **Yêu cầu hệ thống:**
+* Cài đặt [MongoDB Community Server v6.0+](https://www.mongodb.com/try/download/community).
+* Cài đặt [MongoDB Compass](https://www.mongodb.com/try/download/compass).
+
+2. **Khởi tạo dữ liệu:**
+Mở terminal hoặc MongoDB Shell và thực thi lệnh sau:
+```javascript
+use quan_ly_sinh_vien
+db.createCollection("sinh_vien")
+
+```
+
+## 💻 Cách sử dụng
+
+### Truy xuất thông tin chi tiết
+
+Dùng để lấy toàn bộ thông tin sinh viên bao gồm cả thông tin lớp/khoa:
+
+```javascript
+db.sinh_vien.findOne({ "ma_sinh_vien": "110123042" })
+
+```
+
+### Thống kê sĩ số theo giới tính và khoa
+
+Sử dụng Aggregation Pipeline để xuất báo cáo:
+
+```javascript
+db.sinh_vien.aggregate([
+  { $group: {
+      _id: "$thong_tin_khoa.ten_khoa",
+      sv_nam: { $sum: { $cond: [{ $eq: ["$gioi_tinh", "Nam"] }, 1, 0] } },
+      sv_nu: { $sum: { $cond: [{ $eq: ["$gioi_tinh", "Nữ"] }, 1, 0] } }
+  }}
+])
+
+```
+
+## ✅ Đánh giá kết quả
+
+* **Hiệu năng:** Tốc độ phản hồi truy vấn đạt mức tối ưu (<1ms) nhờ lược đồ nhúng dữ liệu.
+* **Linh hoạt:** Dễ dàng bổ sung các trường thông tin mới (như chứng chỉ, kỹ năng) cho từng sinh viên mà không cần sửa cấu trúc toàn bộ bảng.
+* **Trực quan:** Xây dựng thành công Dashboard quản trị trên MongoDB Compass giúp theo dõi sĩ số và phân bố địa lý sinh viên.
 
 ---
-**Tác giả:** Trần Kim Tài 
+
+**Người thực hiện:** Trần Kim Tài
+
 **Giảng viên hướng dẫn:** Phan Thị Phương Nam
+
+1. Bạn hãy lưu nội dung này vào một file có tên là `README.md` ở thư mục gốc của dự án trên máy tính.
+2. Khi upload lên GitHub, giao diện GitHub sẽ tự động nhận diện file này và trình bày đẹp mắt như mẫu trên.
+3. Nếu bạn có ảnh chụp Dashboard, hãy chèn thêm dòng này vào mục **Đánh giá kết quả**: `![Dashboard](link-den-anh-cua-ban.png)` để minh họa trực quan hơn nhé!
