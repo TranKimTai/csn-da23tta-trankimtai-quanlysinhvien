@@ -1,0 +1,2018 @@
+[
+    {
+        "ma_sinh_vien": 110123255,
+        "ten_sinh_vien": "Thạch Nam Anh",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-08-13T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0359887962",
+        "email": "110123255@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205003940",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Chông Nô 1, Xã An Phú Tân, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Thạch Hữu Long",
+            "sdt_cha": "0881998844",
+            "ho_ten_me": "Vũ Bích Trinh",
+            "sdt_me": "0910930272"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123103,
+        "ten_sinh_vien": "Thạch Quốc Huy Hùng",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2004-09-17T00:00:00",
+        "dan_toc": "Khrme",
+        "ton_giao": "Không",
+        "sdt": "0339133318",
+        "email": "110123103@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84204002243",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "39/54, Ấp Ba Se A, Xã Song Lộc, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Thạch Văn Sơn",
+            "sdt_cha": "0912486758",
+            "ho_ten_me": "Nguyễn Diệu Dung",
+            "sdt_me": "0384211733"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123104,
+        "ten_sinh_vien": "Bùi Thanh Huy",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-07-09T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0961674681",
+        "email": "110123104@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "83205011705",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "120, Ấp Phước Lý, Xã Đồng Khởi, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Bùi Hữu Long",
+            "sdt_cha": "0382512011",
+            "ho_ten_me": "Dương Thị Lan",
+            "sdt_me": "0976990524"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123105,
+        "ten_sinh_vien": "Lê Tuấn Huy",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-04-06T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0335263576",
+        "email": "110123105@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205008330",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Kinh Xáng, Xã Tập Ngãi, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Lê Thành Hải",
+            "sdt_cha": "0939308661",
+            "ho_ten_me": "Lý Kim Hương",
+            "sdt_me": "0936030779"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123106,
+        "ten_sinh_vien": "Nguyễn Đoàn Nhật Huy",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-05-30T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0833329731",
+        "email": "110123106@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205011258",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Bờ Kinh 2, Xã Cầu Ngang, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Nguyễn Công Khánh",
+            "sdt_cha": "0977830962",
+            "ho_ten_me": "Võ Thu Thảo",
+            "sdt_me": "0901624810"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123107,
+        "ten_sinh_vien": "Thạch Đức Huy",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-03-09T00:00:00",
+        "dan_toc": "Khrme",
+        "ton_giao": "Không",
+        "sdt": "0384002506",
+        "email": "110123107@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205001921",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Bích Trì, Phường Hoà Thuận, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Thạch Công Hùng",
+            "sdt_cha": "0971075199",
+            "ho_ten_me": "Phan Thu Hoa",
+            "sdt_me": "0904837622"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123109,
+        "ten_sinh_vien": "Hồ Tuấn Hưng",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-07-17T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0949909837",
+        "email": "110123109@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205001119",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Số 88 Bạch Đằng, Ấp Long Đức, Phường Long Đức, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Hồ Văn Cường",
+            "sdt_cha": "0979318396",
+            "ho_ten_me": "Nguyễn Mỹ Trinh",
+            "sdt_me": "0983613429"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123110,
+        "ten_sinh_vien": "Huỳnh Minh Khang",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-12-11T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0869754571",
+        "email": "110123110@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205001616",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Vĩnh Khánh, Xã Long Thành, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Huỳnh Mạnh Vinh",
+            "sdt_cha": "0984671716",
+            "ho_ten_me": "Phạm Thanh Tuyết",
+            "sdt_me": "0982742072"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123253,
+        "ten_sinh_vien": "Phạm Phúc Khang",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-01-20T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0334695903",
+        "email": "110123253@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "83205012220",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp 1B, Xã Tân Hào, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Phạm Quốc Long",
+            "sdt_cha": "0903037422",
+            "ho_ten_me": "Lý Thị Trinh",
+            "sdt_me": "0979363910"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123114,
+        "ten_sinh_vien": "Huỳnh Quốc Khánh",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-08-09T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0937080905",
+        "email": "110123114@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205001858",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Số 102, Đường 19/5, Khóm 4, Phường Trà Vinh, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Huỳnh Công Thịnh",
+            "sdt_cha": "0983545275",
+            "ho_ten_me": "Huỳnh Thị Vân",
+            "sdt_me": "0383443430"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123116,
+        "ten_sinh_vien": "Trần Quốc Khánh",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-05-13T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0869734188",
+        "email": "110123116@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205007128",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp 6A, Xã An Trường, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Trần Mạnh Tuấn",
+            "sdt_cha": "0915995931",
+            "ho_ten_me": "Lê Phương Hương",
+            "sdt_me": "0905044312"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123117,
+        "ten_sinh_vien": "Nguyễn Đăng Khôi",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-08-03T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0349801407",
+        "email": "110123117@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205007057",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Nguyệt Trường, Xã Bình Phú, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Nguyễn Mạnh Thịnh",
+            "sdt_cha": "0702659426",
+            "ho_ten_me": "Hồ Diệu Tuyết",
+            "sdt_me": "0936590087"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123119,
+        "ten_sinh_vien": "Hà Thanh Trường Lam",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2004-02-19T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0335486884",
+        "email": "110123119@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84240410006",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Cái Cỏ, Xã Long Vĩnh, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Hà Mạnh Tuấn",
+            "sdt_cha": "0701457101",
+            "ho_ten_me": "Phạm Bích Mai",
+            "sdt_me": "0708807006"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123121,
+        "ten_sinh_vien": "Trần Thị Thu Lan",
+        "gioi_tinh": "Nữ",
+        "ngay_sinh": "2005-08-28T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0358874187",
+        "email": "110123121@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "94305001036",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Đền Thờ, Xã Anh Thạnh, Thành Phố Cần Thơ",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Trần Quốc Long",
+            "sdt_cha": "0708378926",
+            "ho_ten_me": "Dương Thu Hằng",
+            "sdt_me": "0705180286"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123123,
+        "ten_sinh_vien": "Lê Tấn Lộc",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-08-12T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0799537063",
+        "email": "110123123@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205001780",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Khóm 1, Phường Nguyệt Hoá, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Lê Công Dũng",
+            "sdt_cha": "0709542838",
+            "ho_ten_me": "Nguyễn Thu Vân",
+            "sdt_me": "0989117403"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123125,
+        "ten_sinh_vien": "Nguyễn Phúc Bảo Lộc",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-04-02T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0337773209",
+        "email": "110123125@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205001836",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Khóm 3, Phường Trà Vinh, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Nguyễn Minh Dũng",
+            "sdt_cha": "0906724184",
+            "ho_ten_me": "Hồ Bích Hương",
+            "sdt_me": "0709877974"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123126,
+        "ten_sinh_vien": "Nguyễn Phước Lộc",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-10-17T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0384523269",
+        "email": "110123126@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205003178",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Đầu Giồng A, Xã Châu Thành, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Nguyễn Minh Phúc",
+            "sdt_cha": "0989392911",
+            "ho_ten_me": "Dương Mỹ Dung",
+            "sdt_me": "0880519142"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123130,
+        "ten_sinh_vien": "Trần Duy Luận",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-06-18T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0971912830",
+        "email": "110123130@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205006750",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Te Te 2, Xã Hùng Hoà, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Trần Quang Thịnh",
+            "sdt_cha": "0384408435",
+            "ho_ten_me": "Dương Thị Tuyết",
+            "sdt_me": "0705657835"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123122,
+        "ten_sinh_vien": "Trương Trí Lâm",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-01-21T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0328281105",
+        "email": "110123122@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205012279",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Khóm 4, Xã Châu Thành, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Trương Công Sơn",
+            "sdt_cha": "0707563091",
+            "ho_ten_me": "Lê Thị Mai",
+            "sdt_me": "0937875367"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123131,
+        "ten_sinh_vien": "Kim Tấn Luật",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-02-20T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0333752569",
+        "email": "110123131@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205000446",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Cós Xoài, Xã Nhị Trường, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Kim Quang Tuấn",
+            "sdt_cha": "0888346419",
+            "ho_ten_me": "Lê Ngọc Thảo",
+            "sdt_me": "0704746902"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123133,
+        "ten_sinh_vien": "Nguyễn Ngọc Xuân Mai",
+        "gioi_tinh": "Nữ",
+        "ngay_sinh": "2002-08-18T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0854213395",
+        "email": "110123133@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84302003154",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Khóm 4, Xã Trà Cú, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Nguyễn Mạnh Sơn",
+            "sdt_cha": "0703586047",
+            "ho_ten_me": "Phạm Bích Hương",
+            "sdt_me": "0909329309"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123137,
+        "ten_sinh_vien": "Ngô Minh Mẫn",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-01-20T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0353416896",
+        "email": "110123137@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205002602",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Rẫy  A, Xã Vĩnh Kim, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Ngô Quang Hùng",
+            "sdt_cha": "0937265543",
+            "ho_ten_me": "Bùi Phương Hương",
+            "sdt_me": "0918806029"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123135,
+        "ten_sinh_vien": "Lâm Quang Minh",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2004-01-01T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0358087376",
+        "email": "110123135@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84204005327",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Ô Răng, Xã Hiệp Mỹ, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Lâm Mạnh Cường",
+            "sdt_cha": "0902330699",
+            "ho_ten_me": "Bùi Hồng Lan",
+            "sdt_me": "0931684710"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123134,
+        "ten_sinh_vien": "Huỳnh Văn Mới",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2004-06-07T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0961909748",
+        "email": "110123134@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84204002816",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Con Lọp, Xã Long Hiệp, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Huỳnh Minh Hải",
+            "sdt_cha": "0704843881",
+            "ho_ten_me": "Lê Hồng Trinh",
+            "sdt_me": "0888648155"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123139,
+        "ten_sinh_vien": "Lương Thành Nam",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-02-21T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0829793059",
+        "email": "110123139@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "83205004529",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "172/84, Ấp An Quy, Xã Chợ Lách, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Lương Đình Hùng",
+            "sdt_cha": "0908244420",
+            "ho_ten_me": "Võ Kim Huệ",
+            "sdt_me": "0383900812"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123247,
+        "ten_sinh_vien": "Nguyễn Thị Thu Ngân",
+        "gioi_tinh": "Nữ",
+        "ngay_sinh": "2005-01-24T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0343047913",
+        "email": "110123247@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84305002358",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp 12, Xã Long Hữu, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Nguyễn Đình Tuấn",
+            "sdt_cha": "0907790443",
+            "ho_ten_me": "Huỳnh Phương Lan",
+            "sdt_me": "0385134416"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123251,
+        "ten_sinh_vien": "Phạm Hữu Nghĩa",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-04-04T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0337192980",
+        "email": "110123251@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "82205001254",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Mỹ Lợi A, Xã Long Tiên, Tỉnh Đồng Tháp",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Phạm Công Khánh",
+            "sdt_cha": "0972261894",
+            "ho_ten_me": "Huỳnh Mỹ Hương",
+            "sdt_me": "0887554857"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123143,
+        "ten_sinh_vien": "Phạm Thảo Nguyên",
+        "gioi_tinh": "Nữ",
+        "ngay_sinh": "2005-07-12T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0382714854",
+        "email": "110123143@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84305003000",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Đầu Giồng B, Xã Châu Thành, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Phạm Hữu Vinh",
+            "sdt_cha": "0382285871",
+            "ho_ten_me": "Trần Hồng Tuyết",
+            "sdt_me": "0704406228"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123144,
+        "ten_sinh_vien": "Thạch Tài Nguyên",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-03-27T00:00:00",
+        "dan_toc": "Khrme",
+        "ton_giao": "Không",
+        "sdt": "0369991224",
+        "email": "110123144@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205010588",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Cây Xoài, Xã Ngũ Lạc, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Thạch Quang Hải",
+            "sdt_cha": "0381158932",
+            "ho_ten_me": "Lê Bích Dung",
+            "sdt_me": "0985426506"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123145,
+        "ten_sinh_vien": "Từ Chí Nguyện",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2002-12-16T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0772162077",
+        "email": "110123145@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84202009796",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Khóm 6, Xã Tiểu Cần, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Từ Quốc Thịnh",
+            "sdt_cha": "0979229293",
+            "ho_ten_me": "Đặng Kim Trinh",
+            "sdt_me": "0906504309"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123147,
+        "ten_sinh_vien": "Đỗ Thành Nhân",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-02-16T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0969267401",
+        "email": "110123147@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205009910",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Tân Trung Giồng A, Xã Tiểu Cần, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Đỗ Quang Long",
+            "sdt_cha": "0709017519",
+            "ho_ten_me": "Huỳnh Kim Thảo",
+            "sdt_me": "0905946874"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123148,
+        "ten_sinh_vien": "Nguyễn Trung Nhân",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-06-18T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0774850181",
+        "email": "110123148@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205001830",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Kinh B, xã Tân An, tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Nguyễn Hữu Long",
+            "sdt_cha": "0913331478",
+            "ho_ten_me": "Phạm Mỹ Hằng",
+            "sdt_me": "0900412038"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123252,
+        "ten_sinh_vien": "Phạm Minh Nhựt",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-04-19T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0901017304",
+        "email": "110123252@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205001915",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Số 486, Nguyễn Chí Thanh, Khóm 11, Phường Trà Vinh, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Phạm Minh Vinh",
+            "sdt_cha": "0907807986",
+            "ho_ten_me": "Hoàng Diệu Mai",
+            "sdt_me": "0989513501"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123153,
+        "ten_sinh_vien": "Nèang Srây Ônl",
+        "gioi_tinh": "Nữ",
+        "ngay_sinh": "2005-01-18T00:00:00",
+        "dan_toc": "Khrme",
+        "ton_giao": "Không",
+        "sdt": "0397101459",
+        "email": "110123153@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "89305016377",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Tổ 10, Ấp Vĩnh Tâm, Xã An Cư, Tỉnh An Giang",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Nèang Hữu Cường",
+            "sdt_cha": "0904050359",
+            "ho_ten_me": "Lê Phương Tuyết",
+            "sdt_me": "0386283435"
+        }
+    },
+    {
+        "ma_sinh_vien": 110123248,
+        "ten_sinh_vien": "Nguyễn Thiên Trân",
+        "gioi_tinh": "Nữ",
+        "ngay_sinh": "2003-09-03T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0767954606",
+        "email": "110123248@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84303000751",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp 5A, Xã An Trường, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Nguyễn Văn Sơn",
+            "sdt_cha": "0984546951",
+            "ho_ten_me": "Lý Phương Vân",
+            "sdt_me": "0385046989"
+        }
+    },
+    {
+        "ma_sinh_vien": 110122189,
+        "ten_sinh_vien": "Châu Tuyết Trân",
+        "gioi_tinh": "Nữ",
+        "ngay_sinh": "2004-06-11T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0342218606",
+        "email": "110122189@st.tvu.edu.vn",
+        "chuyen_nganh": "CNTT",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba036a"
+            },
+            "ma_lop": "DA23TTC",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 36,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28d9"
+                },
+                "ma_gv": "03",
+                "ten_gv": "Phạm Thị Trúc Mai",
+                "sdt": "0936010206",
+                "email": "pttmai@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba036f"
+            },
+            "ma_khoa": "CNTT",
+            "ten_khoa": "Công nghệ thông tin",
+            "dia_chi": "C7"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84304001942",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Khóm 9, Phường Trà Vinh, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Châu Quang Hải",
+            "sdt_cha": "0888284273",
+            "ho_ten_me": "Phạm Thu Hoa",
+            "sdt_me": "0971253698"
+        }
+    }
+]

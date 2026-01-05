@@ -1,0 +1,1962 @@
+[
+    {
+        "ma_sinh_vien": 112123011,
+        "ten_sinh_vien": "Dương Quốc An",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-04-15T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0346500948",
+        "email": "112123011@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2027",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205005271",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp 4, Xã Trà Cú, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Dương Thành Sơn",
+            "sdt_cha": "0383499141",
+            "ho_ten_me": "Hồ Hồng Hương",
+            "sdt_me": "0933571336"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123018,
+        "ten_sinh_vien": "Lê Vũ Bảo",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-01-04T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0378024401",
+        "email": "112123018@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2028",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205002399",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Cây Da, Xã Ngũ Lạc, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Lê Minh Thịnh",
+            "sdt_cha": "0889552709",
+            "ho_ten_me": "Ngô Mỹ Thảo",
+            "sdt_me": "0704470428"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123109,
+        "ten_sinh_vien": "Lý Gia Bảo",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-03-10T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0353504595",
+        "email": "112123109@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2029",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205001535",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Trà Ốp, Xã An Trường, Tỉnh Kiên Giang",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Lý Đình Cường",
+            "sdt_cha": "0931065128",
+            "ho_ten_me": "Huỳnh Diệu Hằng",
+            "sdt_me": "0918674036"
+        }
+    },
+    {
+        "ma_sinh_vien": 112122019,
+        "ten_sinh_vien": "Nguyễn Chí Bảo",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2004-11-23T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "32218699",
+        "email": "112122019@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2030",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205001468",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Khóm 3, Xã Càng Long, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Nguyễn Đức Sơn",
+            "sdt_cha": "0906252972",
+            "ho_ten_me": "Bùi Thu Hương",
+            "sdt_me": "0887802674"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123014,
+        "ten_sinh_vien": "Nguyễn Anh Bằng",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-08-21T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0377004537",
+        "email": "112123014@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2031",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205008989",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Tất Vinh, Xã Bình Phú, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Nguyễn Minh Sơn",
+            "sdt_cha": "0936044957",
+            "ho_ten_me": "Huỳnh Thị Oanh",
+            "sdt_me": "0939927842"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123019,
+        "ten_sinh_vien": "Văn Minh Cần",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-03-17T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0828273552",
+        "email": "112123019@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2032",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205010113",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Trại Luân, Xã Nhị Long, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Văn Mạnh Khánh",
+            "sdt_cha": "0904720957",
+            "ho_ten_me": "Hồ Phương Thảo",
+            "sdt_me": "0906092030"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123020,
+        "ten_sinh_vien": "Hồ Chí Cường",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-02-28T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0868425484",
+        "email": "112123020@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2033",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205007118",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Bãi Vàng, Xã Hưng Mỹ, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Hồ Thành Cường",
+            "sdt_cha": "0970164890",
+            "ho_ten_me": "Đỗ Hồng Oanh",
+            "sdt_me": "0902753891"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123022,
+        "ten_sinh_vien": "Hồ Mai Hoàng Duy",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-10-22T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0833565358",
+        "email": "112123022@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2034",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205006104",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Mé Láng, Xã Ngũ Lạc, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Hồ Quang Thịnh",
+            "sdt_cha": "0972951325",
+            "ho_ten_me": "Lý Diệu Hương",
+            "sdt_me": "0386659506"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123001,
+        "ten_sinh_vien": "Lý Trần Khánh Duy",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-07-11T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0358943141",
+        "email": "112123001@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2035",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205009657",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Phú Đức, Xã Bình Phú, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Lý Văn Tuấn",
+            "sdt_cha": "0933490435",
+            "ho_ten_me": "Huỳnh Ngọc Dung",
+            "sdt_me": "0885486670"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123023,
+        "ten_sinh_vien": "Nguyễn Dương Vũ Duy",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-10-20T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0924316806",
+        "email": "112123023@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2036",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205003411",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Âp Giống Giếng, Phường Duyên Hải, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Nguyễn Minh Hải",
+            "sdt_cha": "0972415929",
+            "ho_ten_me": "Phạm Kim Tuyết",
+            "sdt_me": "0976516745"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123024,
+        "ten_sinh_vien": "Tăng Thanh Duy",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-07-26T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0398366820",
+        "email": "112123024@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2037",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205010329",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Giồng Giá, Xã Hòa Minh, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Tăng Mạnh Khánh",
+            "sdt_cha": "0910580474",
+            "ho_ten_me": "Lý Kim Hằng",
+            "sdt_me": "0982635347"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123027,
+        "ten_sinh_vien": "Lương Trung Đảm",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-03-06T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0818015458",
+        "email": "112123027@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2038",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205003132",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Khóm 6, Xã Long Thành, Tĩnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Lương Thành Hùng",
+            "sdt_cha": "0934962655",
+            "ho_ten_me": "Nguyễn Kim Trinh",
+            "sdt_me": "0981474405"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123028,
+        "ten_sinh_vien": "Nguyễn Huỳnh Đảm",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-04-04T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0332969069",
+        "email": "112123028@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2039",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205009276",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Trà Đét, Phường Nguyệt Hóa, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Nguyễn Minh Thịnh",
+            "sdt_cha": "0982757988",
+            "ho_ten_me": "Dương Bích Dung",
+            "sdt_me": "0910603561"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123033,
+        "ten_sinh_vien": "Lê Tuấn Đạt",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-06-14T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0363831614",
+        "email": "112123033@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2040",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205002745",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Định An, Xã Đông Hải, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Lê Quốc Dũng",
+            "sdt_cha": "0703270454",
+            "ho_ten_me": "Nguyễn Diệu Vân",
+            "sdt_me": "0881648620"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123029,
+        "ten_sinh_vien": "Thạch Ngọc Đỉnh",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-02-28T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0372133864",
+        "email": "112123029@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2041",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205002872",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Con Lọp, Xã Long Hiệp, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Thạch Công Thịnh",
+            "sdt_cha": "0910130669",
+            "ho_ten_me": "Vũ Hồng Thảo",
+            "sdt_me": "0709182446"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123030,
+        "ten_sinh_vien": "Thạch Đô",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-04-11T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0357422573",
+        "email": "112123030@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2042",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205003456",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Trà Sát B, Xã Long Hiệp, Tĩnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Thạch Hữu Cường",
+            "sdt_cha": "0706571386",
+            "ho_ten_me": "Ngô Ngọc Tuyết",
+            "sdt_me": "0974835335"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123026,
+        "ten_sinh_vien": "Phạm Minh Đức",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-04-05T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0384864674",
+        "email": "112123026@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2043",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205008712",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Lo Co A, Xã An Trường A, Tĩnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Phạm Đình Hùng",
+            "sdt_cha": "0887562264",
+            "ho_ten_me": "Hoàng Bích Hoa",
+            "sdt_me": "0384187844"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123037,
+        "ten_sinh_vien": "Thạch Trung Hải",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-12-06T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0832781711",
+        "email": "112123037@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2044",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205005447",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Lo Co B, Xã An Trường , Tĩnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Thạch Đình Dũng",
+            "sdt_cha": "0988372580",
+            "ho_ten_me": "Bùi Ngọc Trinh",
+            "sdt_me": "0381751401"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123004,
+        "ten_sinh_vien": "Lê Minh Hiển",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-02-13T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0353144259",
+        "email": "112123004@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2045",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205003017",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Trà Ốp, Xã An Trường, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Lê Đức Dũng",
+            "sdt_cha": "0972625767",
+            "ho_ten_me": "Hồ Thanh Huệ",
+            "sdt_me": "0984552202"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123039,
+        "ten_sinh_vien": "Đặng Quốc Huy",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-09-12T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0338697503",
+        "email": "112123039@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2046",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205002966",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Khóm 2, Phường Long Đức, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Đặng Công Phúc",
+            "sdt_cha": "0937606590",
+            "ho_ten_me": "Bùi Thị Tuyết",
+            "sdt_me": "0988832343"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123041,
+        "ten_sinh_vien": "Trần Quốc Huy",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2004-11-04T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0388338158",
+        "email": "112123041@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2047",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84204007349",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp 6, Xã Trà Cú, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Trần Công Sơn",
+            "sdt_cha": "0903981109",
+            "ho_ten_me": "Hồ Kim Mai",
+            "sdt_me": "0912279676"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123042,
+        "ten_sinh_vien": "Trương Đang Huy",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-03-11T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0333987582",
+        "email": "112123042@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2048",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205001157",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp 12, Xã Trà Cú, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Trương Đức Tuấn",
+            "sdt_cha": "0380559887",
+            "ho_ten_me": "Lê Phương Vân",
+            "sdt_me": "0382411604"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123049,
+        "ten_sinh_vien": "Chung Hoàng Khải",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-03-12T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0344738680",
+        "email": "112123049@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2049",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "94205007814",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp An Tây, Xã Lưu Nghiệp Anh, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Chung Đình Khánh",
+            "sdt_cha": "0905918093",
+            "ho_ten_me": "Nguyễn Hồng Mai",
+            "sdt_me": "0909940013"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123005,
+        "ten_sinh_vien": "Nguyễn Phúc Khang",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-04-12T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0356142285",
+        "email": "112123005@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2050",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205002473",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Đại Mong, Xã Tiểu Cần, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Nguyễn Đức Phúc",
+            "sdt_cha": "0983674257",
+            "ho_ten_me": "Lý Diệu Lan",
+            "sdt_me": "0706965494"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123043,
+        "ten_sinh_vien": "Cao Quang Kháng",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-03-29T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0373836819",
+        "email": "112123043@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2051",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205009496",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Tân Thuận, Xã Phước Mỹ Trung, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Cao Quang Vinh",
+            "sdt_cha": "0971526153",
+            "ho_ten_me": "Dương Ngọc Tuyết",
+            "sdt_me": "0889332363"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123045,
+        "ten_sinh_vien": "Đào Duy Khánh",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2004-05-25T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0565782436",
+        "email": "112123045@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2052",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84204002830",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Mỹ Cẩm B, Xã Cầu Ngang, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Đào Đức Sơn",
+            "sdt_cha": "0380966862",
+            "ho_ten_me": "Nguyễn Mỹ Hương",
+            "sdt_me": "0979180266"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123105,
+        "ten_sinh_vien": "Dương Tuấn Khoa",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2004-08-17T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0356280896",
+        "email": "112123105@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2053",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84204001067",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Khóm 5, Xã Long Thành, Tĩnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Dương Minh Dũng",
+            "sdt_cha": "0701930056",
+            "ho_ten_me": "Bùi Kim Dung",
+            "sdt_me": "0911626174"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123107,
+        "ten_sinh_vien": "Hứa Đình Khôi",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-09-23T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0866504418",
+        "email": "112123107@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2054",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205009950",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Cây Da, Xã Đôn Châu, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Hứa Văn Khánh",
+            "sdt_cha": "0984376238",
+            "ho_ten_me": "Dương Hồng Lan",
+            "sdt_me": "0907722452"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123108,
+        "ten_sinh_vien": "Lê Huỳnh Thanh Liêm",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-10-08T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0815117673",
+        "email": "112123108@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2055",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205007765",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Ngãi Lợi, Xã Hưng Mỹ, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Lê Quốc Thịnh",
+            "sdt_cha": "0881675421",
+            "ho_ten_me": "Dương Thị Hương",
+            "sdt_me": "0386786702"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123006,
+        "ten_sinh_vien": "Huỳnh Trọng Nhân",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-06-16T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0384868785",
+        "email": "112123006@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2056",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205002354",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Mỹ Cẩm B, Xã Cầu Ngang, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Huỳnh Đức Sơn",
+            "sdt_cha": "0707995472",
+            "ho_ten_me": "Trần Diệu Mai",
+            "sdt_me": "0889884034"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123007,
+        "ten_sinh_vien": "Bùi Cao Phúc",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-09-03T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "98372576",
+        "email": "112123007@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2057",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205000698",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Sa Bình, Phường Long Đức, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Bùi Đình Vinh",
+            "sdt_cha": "0880790090",
+            "ho_ten_me": "Trần Hồng Huệ",
+            "sdt_me": "0885820010"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123008,
+        "ten_sinh_vien": "Nguyễn Minh Tâm",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-02-25T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0984966240",
+        "email": "112123008@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2058",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205000789",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Khóm 1, Phường Long Đức, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Nguyễn Văn Tuấn",
+            "sdt_cha": "0704406497",
+            "ho_ten_me": "Vũ Diệu Hằng",
+            "sdt_me": "0382704914"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123009,
+        "ten_sinh_vien": "Lâm Nhật Tân",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-05-16T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0702858374",
+        "email": "112123009@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2059",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205010451",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp An Tân, Xã Lưu Nghiệp Anh, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Lâm Minh Hải",
+            "sdt_cha": "0388934805",
+            "ho_ten_me": "Đặng Thu Huệ",
+            "sdt_me": "0977410582"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123106,
+        "ten_sinh_vien": "Huỳnh Lê Đức Thịnh",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-07-22T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0336865315",
+        "email": "112123106@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2060",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "83205009550",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Tân Thuận Ngoài, Xã Phước Mỹ Trung, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Huỳnh Thành Phúc",
+            "sdt_cha": "0708938318",
+            "ho_ten_me": "Hồ Bích Hoa",
+            "sdt_me": "0914162751"
+        }
+    },
+    {
+        "ma_sinh_vien": 112123104,
+        "ten_sinh_vien": "Bùi Thế Vinh",
+        "gioi_tinh": "Nam",
+        "ngay_sinh": "2005-06-29T00:00:00",
+        "dan_toc": "Kinh",
+        "ton_giao": "Không",
+        "sdt": "0338337634",
+        "email": "112123104@st.tvu.edu.vn",
+        "chuyen_nganh": "CK",
+        "bac_dao_tao": "Đại học",
+        "he_dao_tao": "Chính quy",
+        "nien_khoa": "2023-2061",
+        "trang_thai": "Đang học",
+        "thong_tin_lop": {
+            "_id": {
+                "$oid": "69415880e8b05fa2caba0367"
+            },
+            "ma_lop": "DA23CK",
+            "hoc_ky": "2025-2026",
+            "nam_nhap_hoc": 2023,
+            "so_luong_sinh_vien": 34,
+            "co_van_hoc_tap": {
+                "_id": {
+                    "$oid": "693ff8f124f61dc097af28db"
+                },
+                "ma_gv": "05",
+                "ten_gv": "Nguyễn Vũ Lực",
+                "sdt": "0966810917",
+                "email": " nguyenvuluc@tvu.edu.vn"
+            }
+        },
+        "thong_tin_khoa": {
+            "_id": {
+                "$oid": "694158e1e8b05fa2caba0372"
+            },
+            "ma_khoa": "CK",
+            "ten_khoa": "Cơ khí-động học",
+            "dia_chi": "C9"
+        },
+        "cmnd_cccd": {
+            "ma_so_cccd": "84205007860",
+            "noi_cap_cccd": "",
+            "ngay_cap": ""
+        },
+        "dia_chi": {
+            "dia_chi_thuong_tru": "Ấp Ngãi Lợi, Xã Hưng Mỹ, Tỉnh Vĩnh Long",
+            "dia_chi_tam_tru": ""
+        },
+        "quan_he_gia_dinh": {
+            "ho_ten_cha": "Bùi Văn Long",
+            "sdt_cha": "0970364525",
+            "ho_ten_me": "Hoàng Bích Hoa",
+            "sdt_me": "0987781676"
+        }
+    }
+]
