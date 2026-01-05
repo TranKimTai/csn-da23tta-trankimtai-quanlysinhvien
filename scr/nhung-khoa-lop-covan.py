@@ -143,7 +143,7 @@ try:
         mongodb_docs.append(student_doc)
 
     # 3. LƯU FILE JSON
-    OUTPUT_FILE = 'sinhvien_full(6).json'
+    OUTPUT_FILE = 'sinhvien_full.json'
     if mongodb_docs:
         with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
             json.dump(mongodb_docs, f, ensure_ascii=False, indent=4)
@@ -152,4 +152,5 @@ try:
         print("Không có dữ liệu.")
 
 except Exception as e:
+
     print(f"Lỗi: {e}")
